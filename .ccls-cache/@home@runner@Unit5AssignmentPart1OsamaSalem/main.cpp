@@ -1,3 +1,8 @@
+/* Osama Salem
+  COSC-1436-57001
+  Replit.com
+  This program will take in information about the employees and display their name, netpay, and employment type*/
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
